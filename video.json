@@ -22,7 +22,7 @@
         {
             "title": "Video 3",
             "playerLabel": "Video 3",
-            "action": "video:http://msx.benzac.de/media/video3.mp4"
+            "action": "video:https://weyyak-live.akamaized.net/weyyak_action/index.m3u8"
         }
     ]
 }
