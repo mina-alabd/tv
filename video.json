@@ -11,6 +11,7 @@
         {
             "title": "Video 1",
             "playerLabel": "Video 1",
+            "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2hwMOwcyyYWlHBldhonipg09kRm.jpg", 
             "action": "video:http://msx.benzac.de/media/video1.mp4"
         },
         {
